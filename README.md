@@ -20,11 +20,13 @@ To run the Jupyter Notebook files and perform the data analysis, you need to hav
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly & Dash
+- SciPy & Statmodels
 
 You can install these libraries using the `pip` package manager by running the following command:
 
 ```
-pip install numpy pandas matplotlib seaborn
+pip install numpy pandas matplotlib seaborn plotly dash scipy statmodels 
 ```
 
 ## Projects
