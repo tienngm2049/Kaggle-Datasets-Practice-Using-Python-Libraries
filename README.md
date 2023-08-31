@@ -53,13 +53,3 @@ To use the projects in this repository, follow these steps:
 
 Feedback, suggestions, and contributions to this repository are highly appreciated. If you find any issues, have ideas for improvement, or want to contribute your own projects, please feel free to create a pull request or open an issue.
 
-## License
-
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
-
-## Contact
-
-For any further information or inquiries, you can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com).
-
-Happy exploring and learning data analysis with Python libraries!
-
